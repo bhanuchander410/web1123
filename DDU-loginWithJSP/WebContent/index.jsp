@@ -74,7 +74,7 @@ span.psw {
   <form>
   
   	<div class="imgcontainer">
-    	<img src="user.png" alt="UserPicture" class="avatar">
+    	<img src="images/user.png" alt="UserPicture" class="avatar">
   	</div>
 
   	<div class="container">
